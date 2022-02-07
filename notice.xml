@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <notice>
     <announcement>本工具目前处于Alpha版本
-大部分功能没有实装，只有一个UI界面
-敬请期待！
+整合包启动，管理功能部分可以使用
+已经可以正常启动游戏
+也可以去其他页面看看
+有意见请在反馈页面提出~
     </announcement>
-    <date>2022年2月6号</date>
+    <date>2022年2月7号</date>
 </notice>
