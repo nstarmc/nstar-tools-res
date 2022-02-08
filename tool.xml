@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tool>
-    <version>1.2</version>
-    <content>·实装1.0界面的全部功能
+    <version>1.2.1</version>
+    <content>#2022年2月8日 - Alpha 1.2.1
+·修复存在中文路径导致无法更新的bug
+——————————————————————————
+#2022年2月8日 - Alpha 1.2
+·实装1.0界面的全部功能
 ·Java安装功能完成
 ·修复部分UI错误
 ·更改窗口大小，最低窗口大小
 ·添加背景功能（未完善）
-·关于页面中信息可复制，GUID固定</content>
+·关于页面中信息可复制，GUID固定
+——————————————————————————</content>
     <update>https://res.nstarmc.cn/laest/laest.exe</update>
 </tool>
