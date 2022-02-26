@@ -1,0 +1,16 @@
+{
+    "NSTAR系列基础模组整合包":{
+        "name":"NSTAR系列基础模组整合包",
+        "list":{
+            "1.18.1":{
+                "download":"https://drive.dnxshare.cn/api/v3/file/source/2343/[NSTAR]1.18.1-Fabric-20220208.zip?sign=uhd-YmBsVVgpwXGV1Nlz1TQn66a2bWVMqiHean0CraE%3D%3A0",
+                "id":"10001",
+                "update_time":{
+                    "year":"2022",
+                    "month":"2",
+                    "date":"8"
+                }
+            }
+        }
+    }
+}
