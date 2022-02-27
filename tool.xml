@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tool>
-    <version>1.2.1</version>
-    <content>#2022年2月8日 - Alpha 1.2.1
-·修复存在中文路径导致无法更新的bug
-——————————————————————————
-#2022年2月8日 - Alpha 1.2
-·实装1.0界面的全部功能
-·Java安装功能完成
-·修复部分UI错误
-·更改窗口大小，最低窗口大小
-·添加背景功能（未完善）
-·关于页面中信息可复制，GUID固定
-——————————————————————————</content>
+    <version>1.3</version>
+    <content>#2022年2月27日 - Beta 1.3
+·完成整合包软件内下载功能 
+·修复切换页面导致页面UI重置的BUG
+·修复版本选择框重复BUG
+·修复版本选择框禁用不刷新BUG
+·优化部分多线程处理
+·版本列表添加更细按钮（暂时无法使用）</content>
     <update>https://res.nstarmc.cn/latest/latest.exe</update>
 </tool>
