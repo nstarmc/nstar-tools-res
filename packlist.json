@@ -4,6 +4,16 @@
             "name": "NSTAR系列基础模组整合包",
             "list": [
                 {
+                    "version": "1.18.2-Fabric",
+                    "download": "https://drive.dnxshare.cn/api/v3/file/source/2351/[NSTAR]1.18.2-Fabric-Sodium-20220305.zip?sign=k1S0bUbQQXn3h0dGaTSboOPJbdlaakUcVnvLk5XIqFM%3D%3A0",
+                    "id": "10003",
+                    "update_time": {
+                        "year": "2022",
+                        "month": "3",
+                        "date": "5"
+                    }
+                },
+                {
                     "version":"1.18.1-Fabric",
                     "download": "https://drive.dnxshare.cn/api/v3/file/source/2346/[NSTAR]1.18.1-Fabric-Sodium-20220227.zip?sign=ha3itrkKu28V-Y-xXRWD58ATNR56ZXVwQO7mlXDvY-E%3D%3A0",
                     "id": "10001",
