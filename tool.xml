@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tool>
-    <version>1.5.1</version>
-    <content>#2022年3月13日 - Release 1.5.1
+    <version>1.5.1.1</version>
+    <content>#2022年3月13日 - Release 1.5.1(.1)
+·修复下载整合包页面列表获取错误的BUG
 ·修复win7下载问题
 ·下载速度显示至2位小数
 ·修复整合包ID不存在资源服务器中导致卡死的bug 
