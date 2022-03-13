@@ -10,9 +10,6 @@
 ·添加弹窗公告功能
 ·修复更新时未更新versions文件夹的问题
 ·背景图片可修改透明度
-`背景图片联网获取
- #2022年3月5日 - Release 1.5
-·添加一言功能
-·修改设置信息访问修饰符</content>
+`背景图片联网获取</content>
     <update>https://res.nstarmc.cn/latest/NSTARMC-Tools.exe</update>
 </tool>
