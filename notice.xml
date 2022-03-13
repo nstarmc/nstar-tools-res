@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <notice>
-    <announcement>本工具目前已经正式发布啦！
-已经可以正常进行使用啦！
-下载整合包功能已经完成，正在陆续上传···
-有意见请在反馈页面提出~
+    <announcement>整合包1.18.2-Fabric版本已发布
+您可以前往下载整合包页面下载啦！
+
+另外，本工具做成不久，可能存在大量BUG
+如果出现问题，可以先尝试关闭工具，等几秒重新打开
+还是不行的话可以进行反馈
     </announcement>
-    <date>2022年2月27号</date>
+    <date>2022年3月13号</date>
     <dialog>整合包1.18.2-Fabric版本已发布
 您可以前往下载整合包页面下载啦！
+
+另外，本工具做成不久，可能存在大量BUG
+如果出现问题，可以先尝试关闭工具，等几秒重新打开
+还是不行的话可以进行反馈
     </dialog>
     <dialogt>NSTAR基础模组整合包公告</dialogt>
-    <dialogv>2</dialogv>
+    <dialogv>3</dialogv>
 </notice>
