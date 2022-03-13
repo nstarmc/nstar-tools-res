@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tool>
-    <version>1.5.1.1</version>
-    <content>#2022年3月13日 - Release 1.5.1(.1)
+    <version>1.5.1.2</version>
+    <content>#2022年3月13日 - Release 1.5.1(.1-2)
+·修复版本列表文本显示错误
+·修复下载检测读取错误，列表读取错误的BUG
 ·修复下载整合包页面列表获取错误的BUG
 ·修复win7下载问题
 ·下载速度显示至2位小数
