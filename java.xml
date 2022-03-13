@@ -9,7 +9,7 @@
         <dir>jdk-16.0.1</dir>    
     </Java16>
     <Java8>
-        <url>https://mirrors.tuna.tsinghua.edu.cn/AdoptOpenJDK/8/jre/x64/windows/OpenJDK8U-jre_x64_windows_hotspot_8u322b06.zip</url>
-        <dir>jdk8u322-b06-jre</dir>
+        <url>https://drive.dnxshare.cn/api/v3/file/source/2354/jre1.8.0_321.zip?sign=WBDuhxzcxxr1YNpymQn7-w9QM836NZbpGUnHOYwsWOk%3D%3A0</url>
+        <dir>jre1.8.0_321</dir>
     </Java8>
 </Java>
