@@ -14,16 +14,6 @@
                     }
                 },
                 {
-                    "version":"1.18.1-Fabric",
-                    "download": "https://drive.dnxshare.cn/api/v3/file/source/2346/[NSTAR]1.18.1-Fabric-Sodium-20220227.zip?sign=ha3itrkKu28V-Y-xXRWD58ATNR56ZXVwQO7mlXDvY-E%3D%3A0",
-                    "id": "10001",
-                    "update_time": {
-                        "year": "2022",
-                        "month": "2",
-                        "date": "27"
-                    }
-                },
-                {
                     "version": "1.17.1-Fabric",
                     "download": "https://drive.dnxshare.cn/api/v3/file/source/2347/%5BNSTAR%5D1.17.1-Fabric%E5%85%89%E5%BD%B1%E7%89%88-220227.zip?sign=lQ5mrKc46HwWr9etdHKAy2CmnMw_OzfJdehjoriXLUc%3D%3A0",
                     "id": "10002",
@@ -33,7 +23,23 @@
                         "date": "27"
                     }
                 }
+
             ]
-        }
+        },
+            {
+                "name": "NSTAR系列基础模组整合包-过渡版本",
+                "list": [
+                    {
+                        "version": "1.18.1-Fabric",
+                        "download": "https://drive.dnxshare.cn/api/v3/file/source/2346/[NSTAR]1.18.1-Fabric-Sodium-20220227.zip?sign=ha3itrkKu28V-Y-xXRWD58ATNR56ZXVwQO7mlXDvY-E%3D%3A0",
+                        "id": "10001",
+                        "update_time": {
+                            "year": "2022",
+                            "month": "2",
+                            "date": "27"
+                        }
+                    }
+                ]
+            }
     ]
 }
