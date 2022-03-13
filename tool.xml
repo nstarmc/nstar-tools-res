@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tool>
-    <version>1.5</version>
-    <content>#2022年3月5日 - Release 1.5
+    <version>1.5.1</version>
+    <content>#2022年3月13日 - Release 1.5.1
+·修复win7下载问题
+·下载速度显示至2位小数
+·修复整合包ID不存在资源服务器中导致卡死的bug 
+·调整了下载页面UI
+·修改整合包检测提示
+·添加弹窗公告功能
+·修复更新时未更新versions文件夹的问题
+·背景图片可修改透明度
+`背景图片联网获取
+ #2022年3月5日 - Release 1.5
 ·添加一言功能
-·修改设置信息访问修饰符
-——————————————————————————
-#2022年3月5日 - Beta 1.4
-·完成版本更新功能
-·修复下载整合包定位错误BUG
-·修改部分UI显示
-·添加整合包更新检测提示
-·添加整合包版本切换功能的UI</content>
-    <update>https://res.nstarmc.cn/latest/latest.exe</update>
+·修改设置信息访问修饰符</content>
+    <update>https://res.nstarmc.cn/latest/NSTARMC-Tools.exe</update>
 </tool>
