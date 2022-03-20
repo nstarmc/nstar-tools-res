@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tool>
-    <version>1.5.1.3</version>
-    <content>#2022年3月13日 - Release 1.5.1(.1;.2;.3)
-·修复变量未重置导致识别错误
-·修复版本列表文本显示错误
-·修复下载检测读取错误，列表读取错误的BUG
-·修复下载整合包页面列表获取错误的BUG
-·修复win7下载问题
-·下载速度显示至2位小数
-·修复整合包ID不存在资源服务器中导致卡死的bug 
-·调整了下载页面UI
-·修改整合包检测提示
-·添加弹窗公告功能
-·修复更新时未更新versions文件夹的问题
-·背景图片可修改透明度
-`背景图片联网获取</content>
+    <version>1.5.2.0</version>
+    <content>#2022年3月20日 - Release 1.5.2
+·重构下载模块，采用多线程下载
+</content>
     <update>https://res.nstarmc.cn/latest/NSTARMC-Tools.exe</update>
+    
+    <beta_version>1.5.2.0</beta_version>
+    <beta_content>#2022年3月20日 - Release 1.5.2
+·重构下载模块，采用多线程下载
+</beta_content>
+    <beta_update>https://res.nstarmc.cn/latest/NSTARMC-Tools.exe</beta_update>
 </tool>
