@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tool>
-    <version>1.5.2.0</version>
-    <content>#2022年3月20日 - Release 1.5.2
-·重构下载模块，采用多线程下载
+    <version>1.5.3.0</version>
+    <content>#2022年3月27日 - Release 1.5.3
+·将设置内容保存到本地INI配置文件中,防止版本更新后设置丢失 
+·添加导航栏调整功能
+·修正部分错误处理代码
+·添加加密测试模块(关于页面)
+·修复整合包存在时下一次下载按钮不可用的BUG
 </content>
     <update>https://res.nstarmc.cn/latest/NSTARMC-Tools.exe</update>
     
