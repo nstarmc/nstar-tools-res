@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tool>
-    <version>1.5.2.0</version>
-    <content>#2022年3月27日 - Release 1.5.3
+    <version>1.5.3.1</version>
+    <content>#2022年3月27日 - Release 1.5.3(.1)
+·修正无配置文件导致错误闪退(.1)
+·修正配置文件相关bug(.1)
 ·将设置内容保存到本地INI配置文件中,防止版本更新后设置丢失 
 ·添加导航栏调整功能
 ·修正部分错误处理代码
