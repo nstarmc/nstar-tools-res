@@ -32,8 +32,17 @@
                         "month": "5",
                         "date": "23"
                     }
+                },
+                {
+                    "version": "1.15.2-Fabric",
+                    "download": "https://drive.dnxshare.cn/api/v3/file/source/2356/[NSTAR]1.15.2-Fabric-220404.zip?sign=Dorqd5wknVd2r-XfNVqHeDDMoMDaSTUKdp56fbdbVwA%3D%3A0",
+                    "id": "10005",
+                    "update_time": {
+                        "year": "2021",
+                        "month": "1",
+                        "date": "17"
+                    }
                 }
-
             ]
         },
         {
