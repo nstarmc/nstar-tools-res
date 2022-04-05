@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tool>
-    <version>1.5.3.2</version>
-    <content>#2022年4月4日 - Release 1.5.3.2
-·修复弹窗重叠导致闪退，崩溃的BUG（重大bug） 
-·重写背景图加载缓存逻辑，修复第一次打开设置页面导致崩溃（重大bug）
+    <version>1.5.4.0</version>
+    <content>#2022年4月5日 - Release 1.5.4
+·添加整合包更新日志显示功能 
+·添加窗口大小记录功能
 </content>
     <update>https://res.nstarmc.cn/latest/NSTARMC-Tools.exe</update>
     
