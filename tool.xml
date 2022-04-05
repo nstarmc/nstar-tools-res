@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tool>
-    <version>1.5.4.0</version>
-    <content>#2022年4月5日 - Release 1.5.4
+    <version>1.5.4.1</version>
+    <content>#2022年4月5日 - Release 1.5.4(.1)
 ·添加整合包更新日志显示功能 
 ·添加窗口大小记录功能
+·修复首次运行时没有读取整合包的bug
 </content>
     <update>https://res.nstarmc.cn/latest/NSTARMC-Tools.exe</update>
     
-    <beta_version>1.5.2.0</beta_version>
+    <beta_version>1.5.2.1</beta_version>
     <beta_content>#2022年3月20日 - Release 1.5.2
 ·重构下载模块，采用多线程下载
 </beta_content>
