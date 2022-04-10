@@ -46,6 +46,17 @@
                         "date": "17"
                     },
                     "history": ""
+                },
+                {
+                    "version": "1.14.4-Fabric",
+                    "download": "https://drive.dnxshare.cn/api/v3/file/source/2358/[NSTAR]1.14.4-Fabric-220410.zip?sign=xQc2pWJQwZEqkZG6k_chbALzHhVeZZF-8-xrkIPyXcM%3D%3A0",
+                    "id": "10007",
+                    "update_time": {
+                        "year": "2021",
+                        "month": "4",
+                        "date": "3"
+                    },
+                    "history": "[2022-4-10]更新为NSTARMC-Tools格式"
                 }
             ]
         },
