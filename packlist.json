@@ -73,6 +73,17 @@
                             "date": "5"
                         },
                         "history": "[2022-4-5]更新为NSTARMC-Tools格式"
+                    },
+                    {
+                        "version": "1.13.2-Forge",
+                        "download": "https://drive.dnxshare.cn/api/v3/file/source/2359/[NSTAR]1.13.2-Forge-220410.zip?sign=f_7yHBuYbbF6BgpQH1w-jR3ZlMYSBfy6tIQv1MbtjX0%3D%3A0",
+                        "id": "10008",
+                        "update_time": {
+                            "year": "2021",
+                            "month": "1",
+                            "date": "17"
+                        },
+                        "history": "[2022-4-5]更新为NSTARMC-Tools格式"
                     }
                 ]
             },
