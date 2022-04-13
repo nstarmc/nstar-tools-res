@@ -84,6 +84,72 @@
                             "date": "17"
                         },
                         "history": "[2022-4-5]更新为NSTARMC-Tools格式"
+                    },
+                    {
+                        "version": "1.12.2-Forge",
+                        "download": "https://drive.dnxshare.cn/api/v3/file/source/2360/[NSTAR]1.12.2-Forge-220413.zip?sign=Bj0XwPS7Qf6LyCQTfbg0IuvQvuTQ8H-rRs-OmYj66B4%3D%3A0",
+                        "id": "10009",
+                        "update_time": {
+                            "year": "2021",
+                            "month": "4",
+                            "date": "3"
+                        },
+                        "history": "[2022-4-13]更新为NSTARMC-Tools格式"
+                    },
+                    {
+                        "version": "1.11.2-Forge",
+                        "download": "https://drive.dnxshare.cn/api/v3/file/source/2361/[NSTAR]1.11.2-Forge+Liteloader-220413.zip?sign=cO9rKEt9e8ZnH2ZJbQG6I3YunFm54ndaRCVFUWFUOMw%3D%3A0",
+                        "id": "10010",
+                        "update_time": {
+                            "year": "2021",
+                            "month": "4",
+                            "date": "3"
+                        },
+                        "history": "[2022-4-13]更新为NSTARMC-Tools格式"
+                    },
+                    {
+                        "version": "1.10.2-Forge",
+                        "download": "https://drive.dnxshare.cn/api/v3/file/source/2362/[NSTAR]1.10.2-Forge-220413.zip?sign=kmkJUZcX9nR-tKPQOD4sa-52xaLlBl-7dt9QCnK8fck%3D%3A0",
+                        "id": "10011",
+                        "update_time": {
+                            "year": "2021",
+                            "month": "4",
+                            "date": "3"
+                        },
+                        "history": "[2022-4-13]更新为NSTARMC-Tools格式"
+                    },
+                    {
+                        "version": "1.9.4-Forge",
+                        "download": "https://drive.dnxshare.cn/api/v3/file/source/2363/[NSTAR]1.9.4-Forge-220413.zip?sign=oOCPqAs22DRt_iSFST701WnSKff5P10WQM1x9Y-VTXQ%3D%3A0",
+                        "id": "10012",
+                        "update_time": {
+                            "year": "2021",
+                            "month": "4",
+                            "date": "3"
+                        },
+                        "history": "[2022-4-13]更新为NSTARMC-Tools格式"
+                    },
+                    {
+                        "version": "1.8.9-Forge",
+                        "download": "https://drive.dnxshare.cn/api/v3/file/source/2364/[NSTAR]1.8.9-Forge-220413.zip?sign=h8N2UxJvAbpBS38uJWkUcRffuYJhuErxmSoubxqgk3w%3D%3A0",
+                        "id": "10013",
+                        "update_time": {
+                            "year": "2021",
+                            "month": "4",
+                            "date": "3"
+                        },
+                        "history": "[2022-4-13]更新为NSTARMC-Tools格式"
+                    },
+                    {
+                        "version": "1.7.10-Forge",
+                        "download": "https://drive.dnxshare.cn/api/v3/file/source/2365/[NSTAR]1.7.10-Forge+Liteloader-220413.zip?sign=nneyKOWORlNeypaLqwApgiCowtGgp57B8Tua6zjQDEo%3D%3A0",
+                        "id": "10014",
+                        "update_time": {
+                            "year": "2021",
+                            "month": "4",
+                            "date": "3"
+                        },
+                        "history": "[2022-4-13]更新为NSTARMC-Tools格式"
                     }
                 ]
             },
