@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <update>
     <history>
-        <text>#2022年4月5日 - Release 1.5.4(.1)
+        <text>#2022年4月15日 - Release 1.6
+·修复在第二分类及其后面分类的整合包无法正确识别，提示更新的BUG 
+·调整部分UI显示
+·调整官网url
+——————————————————————————
+#2022年4月5日 - Release 1.5.4(.1)
 ·添加整合包更新日志显示功能 
 ·添加窗口大小记录功能
 ·修复首次运行时没有读取整合包的bug
@@ -83,17 +88,17 @@
 ·制作UI界面
 ·制作公告联网读取，更新日志，更新计划联网读取功能
 ——————————————————————————</text>
-        <lastdate>2022年3月20号</lastdate>
+        <lastdate>2022年4月15号</lastdate>
     </history>
     <future>
     <text>·制作整合包版本切换功能
-·更新完成时显示日志
 ·检测资源服务器延迟
 ·日志功能
 ·自定义背景，一言
 ·不同更新通道
-·webview2安装功能
+·Webview2安装功能
+·重写Tools本体更新功能
     </text>
-    <lastdate>2022年3月20号</lastdate>
+    <lastdate>2022年4月15号</lastdate>
     </future>
 </update>

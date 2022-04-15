@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tool>
-    <version>1.5.4.1</version>
-    <content>#2022年4月5日 - Release 1.5.4(.1)
-·添加整合包更新日志显示功能 
-·添加窗口大小记录功能
-·修复首次运行时没有读取整合包的bug
+    <version>1.6</version>
+    <content>#2022年4月15日 - Release 1.6
+·修复在第二分类及其后面分类的整合包无法正确识别，提示更新的BUG 
+·调整部分UI显示
+·调整官网url
 </content>
     <update>https://res.nstarmc.cn/latest/NSTARMC-Tools.exe</update>
     
