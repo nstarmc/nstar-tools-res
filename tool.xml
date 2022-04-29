@@ -8,9 +8,11 @@
 </content>
     <update>https://res.nstarmc.cn/latest/NSTARMC-Tools.exe</update>
     
-    <beta_version>1.5.2.1</beta_version>
-    <beta_content>#2022年3月20日 - Release 1.5.2
-·重构下载模块，采用多线程下载
+    <beta_version>1.6.1.1</beta_version>
+    <beta_content>#2022年4月15日 - Release 1.6.1
+·修复在第二分类及其后面分类的整合包无法正确识别，提示更新的BUG 
+·调整部分UI显示
+·调整官网url
 </beta_content>
     <beta_update>https://res.nstarmc.cn/latest/NSTARMC-Tools.exe</beta_update>
 </tool>
