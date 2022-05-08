@@ -5,12 +5,12 @@
             "list": [
                 {
                     "version": "1.18.2-Fabric",
-                    "download": "https://drive.dnxshare.cn/api/v3/file/source/2355/[NSTAR]1.18.2-Fabric-Sodium-20220404.zip?sign=D_W0EA6rlXLbDiAUSY0bQNCCSn_F8ByJ4qoIl-ir_-A%3D%3A0",
+                    "download": "https://drive.dnxshare.cn/api/v3/file/source/2369/[NSTAR]1.18.2-Fabric-Sodium-20220508.zip?sign=6juXIaMBdi5X7gN8aSJeOglr9KC-hClXBL4czaUZ_sk%3D%3A0",
                     "id": "10003",
                     "update_time": {
                         "year": "2022",
-                        "month": "3",
-                        "date": "5"
+                        "month": "5",
+                        "date": "8"
                     },
                     "history":"[2022-3-4]制作整合包\n[2022-3-45]修改整合包，使其符合NSTARMC-Tools格式"
                 },
