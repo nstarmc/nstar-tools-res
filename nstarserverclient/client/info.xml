@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <nstarmc>
     <notice>测试公告1</notice>
+    <client>
+        <version>0.2</version>
+    </client>
+    <game>
+        <version>1</version>
+    </game>
 </nstarmc>
