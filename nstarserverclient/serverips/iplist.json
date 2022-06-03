@@ -1,14 +1,19 @@
 {
     "iplist":[
         {
-            "name":"本地测试",
-            "ip":"127.0.0.1",
-            "port":443
+            "name":"[推荐]深圳阿里云BGP",
+            "ip":"sz.nstarmc.cn",
+            "port":12808
         },
         {
-            "name": "测试2",
-            "ip": "docs.nstarmc.cn",
-            "port": 443
+            "name": "绍兴BGP",
+            "ip": "cn-sx-bgp-1.natfrp.cloud",
+            "port": 62180
+        },
+        {
+            "name": "成都电信",
+            "ip": "cn-cd-dx-3.natfrp.cloud",
+            "port": 48936
         }
     ]
 }
