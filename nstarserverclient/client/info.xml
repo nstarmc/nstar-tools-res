@@ -2,9 +2,9 @@
 <nstarmc>
     <notice>测试公告1</notice>
     <client>
-        <version>0.2</version>
-        <packurl>https://lists.nstarmc.cn/d/Ali-NSTARMC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/%E5%BD%92%E6%A1%A3%E6%9B%B4%E6%96%B0%E5%8C%852022-05-20/%E5%A4%9C%E9%98%91%E6%98%9F%E7%A9%BA%E7%BE%A4%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%A2%E6%88%B7%E7%AB%AFSetup-%203.2.2.1%20Release.exe</packurl>
-        <upddes>客户端更新日志</upddes>
+        <version>1.0</version>
+        <packurl>https://lists.nstarmc.cn/d/Ali-NSTARMC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/NSC-Setup-1.0%20Beta.exe</packurl>
+        <upddes>更新到1.0 Beta版本</upddes>
     </client>
     <game>
         <version>1</version>
