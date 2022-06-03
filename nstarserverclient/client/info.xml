@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <nstarmc>
-    <notice>测试公告1</notice>
+    <notice>1.19-RC服务器已开放！</notice>
     <client>
         <version>1.0</version>
         <packurl>https://lists.nstarmc.cn/d/Ali-NSTARMC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/NSC-Setup-1.0%20Beta.exe</packurl>
         <upddes>更新到1.0 Beta版本</upddes>
     </client>
     <game>
-        <version>1</version>
-        <upddes>更新日志（游戏）</upddes>
+        <version>3</version>
+        <upddes>1.19RC1</upddes>
     </game>
 </nstarmc>
