@@ -44,15 +44,17 @@
 修复servers.dat更新问题</upddeshis>
     </client>
     <game>
-        <version>5</version>
-        <upddes>修复多人皮肤不加载的问题
-更新到1.19-rc2</upddes>
+        <version>6</version>
+        <upddes>更新到1.19正式版本
+添加小地图模组
+【注意：若需要删除1.19rc1，rc2，请选择全量更新！】
+        </upddes>
         <zlupd>True</zlupd>
     </game>
     <noticebox>
         <title>欢迎！</title>
-        <content>服务器已升级到1.19RC2
-启动游戏注意选择版本
-防呆不防傻！</content>
+        <content>服务器已升级到1.19！
+如果没删rc版本，别选错了！
+小地图模组有啦~</content>
     </noticebox>
 </nstarmc>
