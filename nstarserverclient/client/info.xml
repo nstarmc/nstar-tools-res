@@ -3,15 +3,18 @@
     <notice>1.19-RC服务器已开放！
 鉴于掉落损失惨重，现在开不掉落了==</notice>
     <client>
-        <version>1.0.8</version>
-        <packurl>https://lists.nstarmc.cn/d/Ali-NSTARMC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/NSC-Setup-1.0.8%20Beta.exe</packurl>
+        <version>1.0.9</version>
+        <packurl>https://lists.nstarmc.cn/d/Ali-NSTARMC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/NSC-Setup-1.0.9%20Beta.exe</packurl>
         <upddes>#2022年6月7日 —— 1.0.9 Beta
+【由于服务器资源变更，请尽快更新！】
+添加上一次选择的版本记录功能，下次启动时会自动选择该版本 
 修改后台服务端连接地址
 添加自定义CDN节点功能（设置页面）
 修复服务器没人的时候状态获取失败
 添加更新日志显示（关于页）
         </upddes>
         <upddeshis>#2022年6月7日 —— 1.0.9 Beta
+添加上一次选择的版本记录功能，下次启动时会自动选择该版本 
 修改后台服务端连接地址
 添加自定义CDN节点功能（设置页面）
 修复服务器没人的时候状态获取失败
