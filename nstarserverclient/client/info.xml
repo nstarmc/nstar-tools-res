@@ -44,17 +44,16 @@
 修复servers.dat更新问题</upddeshis>
     </client>
     <game>
-        <version>7</version>
-        <upddes>更新到1.19正式版本
-模组全部更新到正式版
-【本次更新会删除旧版本，请注意备份！】
-        </upddes>
+        <version>8</version>
+        <upddes>添加低配版本
+For1.19</upddes>
         <zlupd>Tru</zlupd>
     </game>
     <noticebox>
         <title>欢迎！</title>
         <content>服务器已升级到1.19！
 如果没删rc版本，别选错了！
+又新增了低配版本，jio得卡的请选择低配版！
 防呆不防傻！</content>
     </noticebox>
 </nstarmc>
