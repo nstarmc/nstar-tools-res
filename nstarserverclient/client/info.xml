@@ -44,9 +44,9 @@
 修复servers.dat更新问题</upddeshis>
     </client>
     <game>
-        <version>6</version>
+        <version>7</version>
         <upddes>更新到1.19正式版本
-添加小地图模组
+模组全部更新到正式版
 【注意：若需要删除1.19rc1，rc2，请选择全量更新！】
         </upddes>
         <zlupd>True</zlupd>
@@ -55,6 +55,6 @@
         <title>欢迎！</title>
         <content>服务器已升级到1.19！
 如果没删rc版本，别选错了！
-小地图模组有啦~</content>
+防呆不防傻！</content>
     </noticebox>
 </nstarmc>
