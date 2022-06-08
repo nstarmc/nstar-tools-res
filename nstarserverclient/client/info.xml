@@ -47,7 +47,7 @@
         <version>8</version>
         <upddes>添加低配版本
 For1.19</upddes>
-        <zlupd>Tru</zlupd>
+        <zlupd>True</zlupd>
     </game>
     <noticebox>
         <title>欢迎！</title>
