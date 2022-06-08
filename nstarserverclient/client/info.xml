@@ -47,9 +47,9 @@
         <version>7</version>
         <upddes>更新到1.19正式版本
 模组全部更新到正式版
-【注意：若需要删除1.19rc1，rc2，请选择全量更新！】
+【本次更新会删除旧版本，请注意备份！】
         </upddes>
-        <zlupd>True</zlupd>
+        <zlupd>Tru</zlupd>
     </game>
     <noticebox>
         <title>欢迎！</title>
