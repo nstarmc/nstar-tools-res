@@ -3,12 +3,12 @@
     <notice>1.19-RC服务器已开放！
 鉴于掉落损失惨重，现在开不掉落了==</notice>
     <client>
-        <version>1.0.10</version>
-        <packurl>https://lists.nstarmc.cn/d/Ali-NSTARMC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/NSC-Setup-1.0.10%20Beta.exe</packurl>
-        <upddes>#2022年6月9日 —— 1.0.10 Beta
+        <version>1.1</version>
+        <packurl>https://lists.nstarmc.cn/d/Ali-NSTARMC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/NSC-Setup-1.1%20Beta.exe</packurl>
+        <upddes>#2022年6月9日 —— 1.1 Beta
 修复标题栏在Windows11以下系统的重影问题（肯定是你老花！）
         </upddes>
-        <upddeshis>#2022年6月9日 —— 1.0.10 Beta
+        <upddeshis>#2022年6月9日 —— 1.1 Beta
 修复标题栏在Windows11以下系统的重影问题
 
 #2022年6月7日 —— 1.0.9 Beta
