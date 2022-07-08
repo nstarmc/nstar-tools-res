@@ -1,5 +1,8 @@
 {
     "java17":{
         "url":"https://download.java.net/openjdk/jdk17/ri/openjdk-17+35_windows-x64_bin.zip"
+    },
+    "java8":{
+        "url":"https://drive.dnxshare.cn/api/v3/file/source/2354/jre1.8.0_321.zip?sign=WBDuhxzcxxr1YNpymQn7-w9QM836NZbpGUnHOYwsWOk%3D%3A0"
     }
 }
