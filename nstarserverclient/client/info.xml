@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <nstarmc>
     <notice>服务器现开放内容：1.12科技工业模组服务器！
-注意：客户端的启动功能写的有点拉跨
-如果启动不出来，请在设置打开第三方启动器，然后用HMCL启动
-（注意选外置登录）</notice>
+注意：客户端的启动功能有问题！请在设置打开第三方启动器，然后用HMCL启动！！
+（注意选外置登录）
+如果有人会MC启动原理，请务必联系我！</notice>
     <client>
         <version>1.2</version>
         <packurl>https://lists.nstarmc.cn/d/Ali-NSTARMC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/NSC-Setup-1.2%20Release.exe</packurl>
@@ -67,8 +67,8 @@ NSTARMCL模块支持1.12版本启动
     <noticebox>
         <title>欢迎！</title>
         <content>服务器现开放内容：1.12科技工业模组服务器！
-注意：客户端的启动功能写的有点拉跨
-如果启动不出来，请在设置打开第三方启动器，然后用HMCL启动
-（注意选外置登录）</content>
+注意：客户端的启动功能有问题！请在设置打开第三方启动器，然后用HMCL启动！！
+（注意选外置登录）
+如果有人会MC启动原理，请务必联系我！</content>
     </noticebox>
 </nstarmc>
