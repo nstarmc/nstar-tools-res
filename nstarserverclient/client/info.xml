@@ -60,7 +60,8 @@ NSTARMCL模块支持1.12版本启动
     </client>
     <game>
         <version>8</version>
-        <upddes>1.12模组服务器客户端</upddes>
+        <upddes>1.12模组服务器客户端
+注意：如果要删除1.19客户端，请选择全量更新！</upddes>
         <zlupd>True</zlupd>
     </game>
     <noticebox>
