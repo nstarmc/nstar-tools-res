@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <nstarmc>
-    <notice>1.19-RC服务器已开放！
-鉴于掉落损失惨重，现在开不掉落了==</notice>
+    <notice>服务器现开放内容：1.12科技工业模组服务器！
+注意：客户端的启动功能写的有点拉跨
+如果启动不出来，请在设置打开第三方启动器，然后用HMCL启动
+（注意选外置登录）</notice>
     <client>
         <version>1.2</version>
         <packurl>https://lists.nstarmc.cn/d/Ali-NSTARMC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/NSC-Setup-1.2%20Release.exe</packurl>
@@ -58,15 +60,14 @@ NSTARMCL模块支持1.12版本启动
     </client>
     <game>
         <version>8</version>
-        <upddes>添加低配版本
-For1.19</upddes>
+        <upddes>1.12模组服务器客户端</upddes>
         <zlupd>True</zlupd>
     </game>
     <noticebox>
         <title>欢迎！</title>
-        <content>服务器已升级到1.19！
-如果没删rc版本，别选错了！
-又新增了低配版本，jio得卡的请选择低配版！
-防呆不防傻！</content>
+        <content>服务器现开放内容：1.12科技工业模组服务器！
+注意：客户端的启动功能写的有点拉跨
+如果启动不出来，请在设置打开第三方启动器，然后用HMCL启动
+（注意选外置登录）</content>
     </noticebox>
 </nstarmc>
