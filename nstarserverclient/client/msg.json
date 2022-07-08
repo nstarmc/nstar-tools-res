@@ -1,18 +1,11 @@
 {
     "list": [
         {
-            "email": "bGp5LnhpYW95dUBxcS5jb20=",
-            "text": "啦啦啦~\n啦啦啦~",
-            "fontsize":20,
-            "launchbt":"启动~",
-            "launchtext":"启动游戏客户端~"
-        },
-        {
             "email":"MTEwMTQ0NzI5NkBxcS5jb20=",
-            "text":"什么时候再去一次深邃古城？\n什么时候再去一次深邃古城？\n什么时候再去一次深邃古城？",
+            "text":"It’s time to go to deep dark",
             "fontsize":55,
-            "launchbt":"出发！深邃古城！",
-            "launchtext":"去深邃古城啦！！！"
+            "launchbt":"出发！Deep Dark~",
+            "launchtext":"GO!"
         }
     ]
 }
