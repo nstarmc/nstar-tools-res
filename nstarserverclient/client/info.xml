@@ -59,10 +59,10 @@ NSTARMCL模块支持1.12版本启动
 修复servers.dat更新问题</upddeshis>
     </client>
     <game>
-        <version>9</version>
+        <version>10</version>
         <upddes>1.12模组服务器客户端
-注意：如果要删除1.19客户端，请选择全量更新！</upddes>
-        <zlupd>True</zlupd>
+修正natives库文件</upddes>
+        <zlupd>Tru</zlupd>
     </game>
     <noticebox>
         <title>欢迎！</title>
