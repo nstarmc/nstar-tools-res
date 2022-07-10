@@ -62,10 +62,9 @@ NSTARMCL模块支持1.12版本启动
 修复servers.dat更新问题</upddeshis>
     </client>
     <game>
-        <version>10</version>
-        <upddes>1.12模组服务器客户端
-修正natives库文件</upddes>
-        <zlupd>Tru</zlupd>
+        <version>11</version>
+        <upddes>添加了模组：加速火把，矿辞统一，拼音搜索</upddes>
+        <zlupd>True</zlupd>
     </game>
     <noticebox>
         <title>欢迎！</title>
