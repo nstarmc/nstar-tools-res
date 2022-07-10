@@ -63,7 +63,8 @@ NSTARMCL模块支持1.12版本启动
     </client>
     <game>
         <version>11</version>
-        <upddes>添加了模组：加速火把，矿辞统一，拼音搜索</upddes>
+        <upddes>添加了模组：加速火把，矿辞统一，拼音搜索
+注意：如果自己加了拼音搜索，请自己删掉，否则崩</upddes>
         <zlupd>True</zlupd>
     </game>
     <noticebox>
