@@ -1,171 +1,18 @@
 {
     "group":[
-            {
-            "name": "NSTAR系列基础模组整合包-Fabric",
+        {
+            "name": "模组服存档",
             "list": [
                 {
-                    "version": "1.18.2-Fabric",
-                    "download": "https://drive.dnxshare.cn/api/v3/file/source/2371/[NSTAR]1.18.2-Fabric-Sodium-20220515.zip?sign=tv3beVyqcqkdC5HpY4QiOkQqrg-1gyxjIMT6rDWUsm8%3D%3A0",
-                    "id": "10003",
+                    "version": "2021年7月模组服务器存档（含客户端）",
+                    "download": "https://drive.dnxshare.cn/api/v3/file/source/2344/NSTAR%E7%BE%A4%E6%9C%8D%E5%8A%A1%E5%99%A8-2021%E5%B9%B47%E6%9C%88%E6%A8%A1%E7%BB%84%E6%9C%8D%E5%8A%A1%E5%99%A8.zip?sign=DPzIbpL6BKISvltwIPDuriSbfQLPTyNP2FNKOGun33o%3D%3A0",
+                    "id": "0",
                     "update_time": {
                         "year": "2022",
-                        "month": "5",
-                        "date": "14"
-                    },
-                    "history":"[2022-3-4]制作整合包\n[2022-3-45]修改整合包，使其符合NSTARMC-Tools格式\n[2022-5-15]添加一些模组，以及部分配置文件"
-                },
-                {
-                    "version": "1.17.1-Fabric",
-                    "download": "https://drive.dnxshare.cn/api/v3/file/source/2347/%5BNSTAR%5D1.17.1-Fabric%E5%85%89%E5%BD%B1%E7%89%88-220227.zip?sign=lQ5mrKc46HwWr9etdHKAy2CmnMw_OzfJdehjoriXLUc%3D%3A0",
-                    "id": "10002",
-                    "update_time": {
-                        "year": "2022",
-                        "month": "2",
-                        "date": "27"
-                    },
-                    "history": ""
-                },
-                {
-                    "version": "1.16.5-Fabric",
-                    "download": "https://drive.dnxshare.cn/api/v3/file/source/2353/%5BNSTAR%5D1.16.5-Fabric%E5%85%89%E5%BD%B1%E7%89%88-210523.zip?sign=CJ54yAXhbyy7oMXFCljUW6gxpQqmefJzM7NMxOqsWnA%3D%3A0",
-                    "id": "10004",
-                    "update_time": {
-                        "year": "2021",
-                        "month": "5",
+                        "month": "7",
                         "date": "23"
                     },
-                    "history": ""
-                },
-                {
-                    "version": "1.15.2-Fabric",
-                    "download": "https://drive.dnxshare.cn/api/v3/file/source/2356/[NSTAR]1.15.2-Fabric-220404.zip?sign=Dorqd5wknVd2r-XfNVqHeDDMoMDaSTUKdp56fbdbVwA%3D%3A0",
-                    "id": "10005",
-                    "update_time": {
-                        "year": "2021",
-                        "month": "1",
-                        "date": "17"
-                    },
-                    "history": ""
-                },
-                {
-                    "version": "1.14.4-Fabric",
-                    "download": "https://drive.dnxshare.cn/api/v3/file/source/2358/[NSTAR]1.14.4-Fabric-220410.zip?sign=xQc2pWJQwZEqkZG6k_chbALzHhVeZZF-8-xrkIPyXcM%3D%3A0",
-                    "id": "10007",
-                    "update_time": {
-                        "year": "2021",
-                        "month": "4",
-                        "date": "3"
-                    },
-                    "history": "[2022-4-10]更新为NSTARMC-Tools格式"
-                }
-            ]
-        },
-        {
-                "name": "NSTAR系列基础模组整合包-Forge",
-                "list": [
-                    {
-                        "version": "1.15.2-Forge",
-                        "download": "https://drive.dnxshare.cn/api/v3/file/source/2357/[NSTAR]1.15.2-Forge-220405.zip?sign=iKVrW6CjE97ymvlA8ZpOjHrGXmnCb5cyvnznWZT-9pA%3D%3A0",
-                        "id": "10006",
-                        "update_time": {
-                            "year": "2022",
-                            "month": "4",
-                            "date": "5"
-                        },
-                        "history": "[2022-4-5]更新为NSTARMC-Tools格式"
-                    },
-                    {
-                        "version": "1.13.2-Forge",
-                        "download": "https://drive.dnxshare.cn/api/v3/file/source/2359/[NSTAR]1.13.2-Forge-220410.zip?sign=f_7yHBuYbbF6BgpQH1w-jR3ZlMYSBfy6tIQv1MbtjX0%3D%3A0",
-                        "id": "10008",
-                        "update_time": {
-                            "year": "2021",
-                            "month": "1",
-                            "date": "17"
-                        },
-                        "history": "[2022-4-5]更新为NSTARMC-Tools格式"
-                    },
-                    {
-                        "version": "1.12.2-Forge",
-                        "download": "https://drive.dnxshare.cn/api/v3/file/source/2360/[NSTAR]1.12.2-Forge-220413.zip?sign=Bj0XwPS7Qf6LyCQTfbg0IuvQvuTQ8H-rRs-OmYj66B4%3D%3A0",
-                        "id": "10009",
-                        "update_time": {
-                            "year": "2021",
-                            "month": "4",
-                            "date": "3"
-                        },
-                        "history": "[2022-4-13]更新为NSTARMC-Tools格式"
-                    },
-                    {
-                        "version": "1.11.2-Forge",
-                        "download": "https://drive.dnxshare.cn/api/v3/file/source/2361/[NSTAR]1.11.2-Forge+Liteloader-220413.zip?sign=cO9rKEt9e8ZnH2ZJbQG6I3YunFm54ndaRCVFUWFUOMw%3D%3A0",
-                        "id": "10010",
-                        "update_time": {
-                            "year": "2021",
-                            "month": "4",
-                            "date": "3"
-                        },
-                        "history": "[2022-4-13]更新为NSTARMC-Tools格式"
-                    },
-                    {
-                        "version": "1.10.2-Forge",
-                        "download": "https://drive.dnxshare.cn/api/v3/file/source/2362/[NSTAR]1.10.2-Forge-220413.zip?sign=kmkJUZcX9nR-tKPQOD4sa-52xaLlBl-7dt9QCnK8fck%3D%3A0",
-                        "id": "10011",
-                        "update_time": {
-                            "year": "2021",
-                            "month": "4",
-                            "date": "3"
-                        },
-                        "history": "[2022-4-13]更新为NSTARMC-Tools格式"
-                    },
-                    {
-                        "version": "1.9.4-Forge",
-                        "download": "https://drive.dnxshare.cn/api/v3/file/source/2363/[NSTAR]1.9.4-Forge-220413.zip?sign=oOCPqAs22DRt_iSFST701WnSKff5P10WQM1x9Y-VTXQ%3D%3A0",
-                        "id": "10012",
-                        "update_time": {
-                            "year": "2021",
-                            "month": "4",
-                            "date": "3"
-                        },
-                        "history": "[2022-4-13]更新为NSTARMC-Tools格式"
-                    },
-                    {
-                        "version": "1.8.9-Forge",
-                        "download": "https://drive.dnxshare.cn/api/v3/file/source/2364/[NSTAR]1.8.9-Forge-220413.zip?sign=h8N2UxJvAbpBS38uJWkUcRffuYJhuErxmSoubxqgk3w%3D%3A0",
-                        "id": "10013",
-                        "update_time": {
-                            "year": "2021",
-                            "month": "4",
-                            "date": "3"
-                        },
-                        "history": "[2022-4-13]更新为NSTARMC-Tools格式"
-                    },
-                    {
-                        "version": "1.7.10-Forge",
-                        "download": "https://drive.dnxshare.cn/api/v3/file/source/2365/[NSTAR]1.7.10-Forge+Liteloader-220413.zip?sign=nneyKOWORlNeypaLqwApgiCowtGgp57B8Tua6zjQDEo%3D%3A0",
-                        "id": "10014",
-                        "update_time": {
-                            "year": "2021",
-                            "month": "4",
-                            "date": "3"
-                        },
-                        "history": "[2022-4-13]更新为NSTARMC-Tools格式"
-                    }
-                ]
-            },
-        {
-            "name": "NSTAR系列基础模组整合包-过渡版本",
-            "list": [
-                {
-                    "version": "1.18.1-Fabric",
-                    "download": "https://drive.dnxshare.cn/api/v3/file/source/2346/[NSTAR]1.18.1-Fabric-Sodium-20220227.zip?sign=ha3itrkKu28V-Y-xXRWD58ATNR56ZXVwQO7mlXDvY-E%3D%3A0",
-                    "id": "10001",
-                    "update_time": {
-                        "year": "2022",
-                        "month": "2",
-                        "date": "27"
-                    },
-                    "history": ""
+                    "history": "这是2021年7月（暑假）开放的模组服务器2的存档，包含了客户端。"
                 }
             ]
         }
