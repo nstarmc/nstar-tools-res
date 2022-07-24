@@ -1,6 +1,34 @@
 {
     "group":[
         {
+            "name": "原版生存存档",
+            "list": [
+                {
+                    "version": "2020年10月生存2服（1.17.1）",
+                    "download": "https://drive.dnxshare.cn/api/v3/file/source/2307/%E5%A4%9C%E9%98%91%E6%98%9F%E7%A9%BA%E7%BE%A4%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%94%9F%E5%AD%982%E6%9C%8D-2020.10.3%E5%AD%98%E6%A1%A3.zip?sign=IZswhtxn-kNcrU465FW3GpQ2PsfeGB6H_bVRsVkvHk0%3D%3A0",
+                    "id": "0",
+                    "update_time": {
+                        "year": "2022",
+                        "month": "7",
+                        "date": "24"
+                    },
+                    "history": "这是2020年10月3号开放的生存2服，初始版本1.16，现存档版本1.17.1"
+                },
+                {
+                    "version": "2022年6月生存（1.19）",
+                    "download": "https://drive.dnxshare.cn/api/v3/file/source/2424/2022-6%E7%BE%A4%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%BA%AF%E7%94%9F%E5%AD%98%E5%AD%98%E6%A1%A3%5B1.19%5D.zip?sign=pVb9oJqMopRxCyfSRlOrQpTyzXmRk-xQwM7cGZsiUNc%3D%3A0",
+                    "id": "0",
+                    "update_time": {
+                        "year": "2022",
+                        "month": "7",
+                        "date": "24"
+                    },
+                    "history": "这是2022年6月(端午)开放的生存服务器存档，初始版本1.19-RC1，现版本1.19"
+                }
+            ]
+            ]
+        },
+        {
             "name": "模组服存档",
             "list": [
                 {
