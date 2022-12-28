@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tool>
-    <version>1.6.3</version>
+    <version>1.6.2</version>
     <content>#2022年12月28日 - Release 1.6.3
 ·升级到NETCORE6
 ·调整beta prove系统
@@ -10,7 +10,7 @@
 </content>
     <update>https://res.nstarmc.cn/latest/NSTARMC-Tools.exe</update>
     
-    <beta_version>1.6.3</beta_version>
+    <beta_version>1.6.2</beta_version>
     <beta_content>#2022年12月28日 - Release 1.6.3
 ·升级到NETCORE6
 ·调整beta prove系统
