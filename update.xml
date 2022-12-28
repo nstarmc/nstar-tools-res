@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <update>
     <history>
-        <text>#2022年5月1日 - Release 1.6.2
+        <text>#2022年12月28日 - Release 1.6.3
+·升级到NETCORE6
+·调整beta prove系统
+·调整部分网站
+——————————————————————————
+#2022年5月1日 - Release 1.6.2
 ·在关于页面添加对赞助者的列表显示
 ·调整部分UI
 ·添加Beta版本鉴权
@@ -97,7 +102,7 @@
 ·制作UI界面
 ·制作公告联网读取，更新日志，更新计划联网读取功能
 ——————————————————————————</text>
-        <lastdate>2022年4月15号</lastdate>
+        <lastdate>2022年12月28号</lastdate>
     </history>
     <future>
     <text>·制作整合包版本切换功能

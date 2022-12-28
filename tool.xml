@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tool>
-    <version>1.6.2</version>
-    <content>#2022年5月1日 - Release 1.6.2
-·修复了自我更新有几率失败的BUG，重构更新脚本
-·添加Beta更新渠道（仅赞助者）
-·在关于页面添加对赞助者的列表显示
-·调整部分UI
-·添加Beta版本鉴权
+    <version>1.6.3</version>
+    <content>#2022年12月28日 - Release 1.6.3
+·升级到NETCORE6
+·调整beta prove系统
+·调整部分网站
 </content>
     <update>https://res.nstarmc.cn/latest/NSTARMC-Tools.exe</update>
     
-    <beta_version>1.6.2</beta_version>
-    <beta_content>#2022年5月1日 - Release 1.6.2
-·修复了自我更新有几率失败的BUG，重构更新脚本
-·添加Beta更新渠道（仅赞助者）
-·在关于页面添加对赞助者的列表显示
-·调整部分UI
-·添加Beta版本鉴权
+    <beta_version>1.6.3</beta_version>
+    <beta_content>#2022年12月28日 - Release 1.6.3
+·升级到NETCORE6
+·调整beta prove系统
+·调整部分网站
 </beta_content>
     <beta_update>https://res.nstarmc.cn/beta/NSTARMC-Tools.exe</beta_update>
 </tool>
