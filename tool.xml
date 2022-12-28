@@ -5,6 +5,8 @@
 ·升级到NETCORE6
 ·调整beta prove系统
 ·调整部分网站
+
+若升级后无法打开，请自行下载NETCORE6环境！
 </content>
     <update>https://res.nstarmc.cn/latest/NSTARMC-Tools.exe</update>
     
@@ -13,6 +15,8 @@
 ·升级到NETCORE6
 ·调整beta prove系统
 ·调整部分网站
+
+若升级后无法打开，请自行下载NETCORE6环境！
 </beta_content>
     <beta_update>https://res.nstarmc.cn/beta/NSTARMC-Tools.exe</beta_update>
 </tool>
